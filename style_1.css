@@ -7,6 +7,15 @@ body {
     font: 20px / 1.15 "Lucida Sans Unicode", "Lucida Grande", sans-serif
 }
 
+.fullscreen{
+    background-image: url("datesheet.jpg");
+    min-height: 110vh;
+    height: auto;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .wrap {
     max-width: 800px;
     padding: 0 10px;
