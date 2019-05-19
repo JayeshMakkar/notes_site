@@ -9,13 +9,13 @@ body {
 
 .fullscreen{
     background-image: url("bgimage.jpg");
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .wrap {
     max-width: 800px;
     padding: 0 10px;
-    margin: 0 auto;
+    margin: 0 auto
 }
 
 header {
