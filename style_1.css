@@ -8,7 +8,7 @@ body {
 }
 
 .fullscreen{
-    background-image: url("datesheet.jpg");
+    background-image: url("bgimage.jpg");
     min-height: 110vh;
     height: auto;
     position: relative;
