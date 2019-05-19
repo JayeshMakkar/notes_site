@@ -9,11 +9,6 @@ body {
 
 .fullscreen{
     background-image: url("bgimage.jpg");
-    min-height: 110vh;
-    height: auto;
-    position: relative;
-    background-size: cover;
-    background-repeat: no-repeat;
 }
 
 .wrap {
