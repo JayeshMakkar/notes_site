@@ -9,6 +9,7 @@ body {
 
 .fullscreen{
     background-image: url("bgimage.jpg");
+    height: 100vh;
 }
 
 .wrap {
